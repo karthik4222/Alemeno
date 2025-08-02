@@ -1,4 +1,4 @@
-# 🚀 Almeno Company Assignment
+# 🚀 Alemeno Company Assignment
 
 ## 📦 Run the Project Locally
 
